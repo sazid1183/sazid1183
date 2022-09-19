@@ -4,7 +4,7 @@
 
 I like to code. 
 
-Skills: PHP / HTML / CSS / JS
+Skills: PHP / HTML / CSS / JS / mysqli / SQL
 
 - 🌱 I’m currently learning JavaScript 
 - 💬 Ask me about Web Developing 
