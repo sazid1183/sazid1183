@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sazid Hasan
 #### I am Web Developer
-![I am Web Developer]([https://drive.google.com/file/d/12HZh-pJffotcjqBkcKtVkiZ1CCBcgq12/view](https://ibb.co/q1qRqzB][img]https://i.ibb.co/q1qRqzB/header-credit-Marvel-Studios-5f741db41c261.jpg))
+![I am Web Developer]([https://drive.google.com/file/d/12HZh-pJffotcjqBkcKtVkiZ1CCBcgq12/view](https://ibb.co/q1qRqzB][img]https://i.ibb.co/q1qRqzB/header-credit-Marvel-Studios-5f741db41c261.jpg)
 
 I like to code. 
 
